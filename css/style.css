@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(8, 12, 17);
+}
+
+#app {
+  display: flex;
+  width: 30%;
+
+  background-color: darkblue;
+  border-radius: 15px;
+}
+
+li {
+  color: white;
+  line-height: 2.3rem;
+}
